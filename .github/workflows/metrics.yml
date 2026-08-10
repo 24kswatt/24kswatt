@@ -43,10 +43,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
-
           plugin_followup: yes
           plugin_followup_sections: repositories
 
