@@ -1,5 +1,7 @@
 ---
-
+<p align="center">
+  <img src="./profile/snake.svg" alt="GitHub Contribution Snake">
+</p>
 <p align="center">
   <img
     src="./profile/metrics.svg"
