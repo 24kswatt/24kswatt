@@ -1,4 +1,4 @@
----
+
 <p align="center">
   <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake">
 </p>
@@ -14,5 +14,3 @@
     alt="GitHub Activity Graph"
   />
 </p>
----
-
