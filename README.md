@@ -1,8 +1,8 @@
 ---
 <p align="center">
   <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak"
+    src="./profile/metrics.svg"
+    alt="GitHub Metrics"
   />
 </p>
 #### Sistemi operativi
