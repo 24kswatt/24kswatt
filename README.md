@@ -1,5 +1,10 @@
 ---
-
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
+  />
+</p>
 #### Sistemi operativi
 
 <p align="center">
