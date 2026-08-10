@@ -5,6 +5,5 @@
     alt="GitHub Metrics"
   />
 </p>
-#### Sistemi operativi
-
+---
 
