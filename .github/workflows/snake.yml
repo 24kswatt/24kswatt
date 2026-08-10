@@ -18,7 +18,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: 24kswatt
@@ -26,14 +29,18 @@ jobs:
             profile/github-snake.svg
             profile/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit snake
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/github-snake.svg profile/github-snake-dark.svg
+          git add profile/github-snake.svg
+          git add profile/github-snake-dark.svg
 
-          git diff --cached --quiet || \
-            git commit -m "chore: update contribution snake"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
+          git commit -m "chore: update contribution snake"
           git push
