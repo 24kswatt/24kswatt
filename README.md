@@ -16,6 +16,7 @@
 </p>
 
 ---
+
 ### 🖥️ OS & Shell
 
 <p align="center">
@@ -31,10 +32,14 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://api.iconify.design/skill-icons/dotnet.svg?height=36" alt="C# / .NET" />
-  <img src="https://api.iconify.design/skill-icons/python-dark.svg?height=36" alt="Python" />
+  <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="TypeScript" />
   <img src="https://api.iconify.design/skill-icons/cpp.svg?height=36" alt="C++" />
+  <img src="https://api.iconify.design/skill-icons/rust.svg?height=36" alt="Rust" />
+  <img src="https://api.iconify.design/skill-icons/go.svg?height=36" alt="Go" />
   <img src="https://api.iconify.design/skill-icons/c.svg?height=36" alt="C" />
+  <img src="https://api.iconify.design/skill-icons/swift.svg?height=36" alt="Swift" />
+  <img src="https://api.iconify.design/skill-icons/kotlin-dark.svg?height=36" alt="Kotlin" />
+  <img src="https://api.iconify.design/skill-icons/javascript.svg?height=36" alt="JavaScript" />
 </p>
 
 ---
@@ -56,7 +61,7 @@
   <img src="https://api.iconify.design/skill-icons/css.svg?height=36" alt="CSS" />
   <img src="https://api.iconify.design/skill-icons/javascript.svg?height=36" alt="JavaScript" />
   <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="TypeScript" />
-  <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg?height=36" alt="Tailwind" />
+  <img src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg?height=36" alt="Tailwind CSS" />
   <img src="https://api.iconify.design/skill-icons/react-dark.svg?height=36" alt="React" />
   <img src="https://api.iconify.design/skill-icons/nextjs-dark.svg?height=36" alt="Next.js" />
 </p>
@@ -88,3 +93,4 @@
   <img src="https://api.iconify.design/skill-icons/materialui-dark.svg?height=36" alt="MUI" />
   <img src="https://api.iconify.design/skill-icons/markdown-dark.svg?height=36" alt="Markdown" />
 </p>
+
