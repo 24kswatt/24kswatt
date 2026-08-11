@@ -15,7 +15,7 @@
   />
 </p>
 
-
+---
 ### 🖥️ OS & Shell
 
 <p align="center">
@@ -26,6 +26,8 @@
   <img src="https://api.iconify.design/skill-icons/powershell-dark.svg?height=36" alt="PowerShell" />
 </p>
 
+---
+
 ### 💻 Languages
 
 <p align="center">
@@ -35,6 +37,8 @@
   <img src="https://api.iconify.design/skill-icons/c.svg?height=36" alt="C" />
 </p>
 
+---
+
 ### 🛠️ Editors & IDEs
 
 <p align="center">
@@ -42,6 +46,8 @@
   <img src="https://api.iconify.design/skill-icons/visualstudio-dark.svg?height=36" alt="Visual Studio" />
   <img src="https://api.iconify.design/skill-icons/neovim-dark.svg?height=36" alt="Neovim" />
 </p>
+
+---
 
 ### 🌐 Web
 
@@ -55,6 +61,8 @@
   <img src="https://api.iconify.design/skill-icons/nextjs-dark.svg?height=36" alt="Next.js" />
 </p>
 
+---
+
 ### ⚙️ Backend & Infrastructure
 
 <p align="center">
@@ -67,6 +75,8 @@
   <img src="https://api.iconify.design/skill-icons/vercel-dark.svg?height=36" alt="Vercel" />
   <img src="https://api.iconify.design/skill-icons/cloudflare-dark.svg?height=36" alt="Cloudflare" />
 </p>
+
+---
 
 ### 🔧 Tools & Community
 
