@@ -35,7 +35,7 @@
   <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="TypeScript" />
   <img src="https://api.iconify.design/skill-icons/cpp.svg?height=36" alt="C++" />
   <img src="https://api.iconify.design/skill-icons/rust.svg?height=36" alt="Rust" />
-  <img src="https://api.iconify.design/skill-icons/go.svg?height=36" alt="Go" />
+  <img src="https://api.iconify.design/skill-icons/golang.svg?height=36" alt="Go" />
   <img src="https://api.iconify.design/skill-icons/c.svg?height=36" alt="C" />
   <img src="https://api.iconify.design/skill-icons/swift.svg?height=36" alt="Swift" />
   <img src="https://api.iconify.design/skill-icons/kotlin-dark.svg?height=36" alt="Kotlin" />
